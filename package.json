@@ -1,0 +1,23 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poojashiroya2199/Pagination.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poojashiroya2199/Pagination/issues"
+  },
+  "homepage": "https://github.com/Poojashiroya2199/Pagination#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "create-react-app": "^4.0.2"
+  }
+}
